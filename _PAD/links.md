@@ -1,13 +1,16 @@
 # paste
 
-_i am wondering if this is a decent way to just post links and manange things to reference_
+https://guides.github.com/activities/hello-world/
 
-*no real idea what I am doing here, besides wasting time. But that's part of the investment in learning I guess*
+https://medium.freecodecamp.org/github-privacy-101-how-to-remove-personal-emails-from-your-public-repos-58347b06a508
 
-### LEARNING GITHUB
-
+<<<<<<< HEAD
 https://guides.github.com/activities/hello-world/
 
 GIT > WEBSITE
 
 https://danielmiessler.com/study/git/#website
+=======
+>>>>>>> 6c91d2cd76076868cac70b31ed96dd5010623b3a
+
+
